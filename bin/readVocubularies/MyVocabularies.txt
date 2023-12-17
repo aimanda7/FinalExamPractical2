@@ -1,0 +1,13 @@
+Apple-a fruit,a tech firm
+
+Table-an object,contains rows and columns when used in context of computers
+
+Head-a body part,a group leader
+
+Olive-a tree name,my study group member
+
+Greta-an african queen,a Techfios student
+
+Claudine-a Burundian warior,a Dallas resident
+
+Ramon-a Burundian King,a Techfios student
